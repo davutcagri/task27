@@ -1,0 +1,10 @@
+-----------------
+Name: Davut Çağrı
+Surname: Akbıyık
+Age: 19
+Average: 76.0
+-----------------
+Name: Ali
+Surname: Yurtseven
+Age: 20
+Average: 95.0
